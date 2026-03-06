@@ -21,7 +21,7 @@
 
 ## 👨‍🔬 About Me
 
-I'm a **PhD student at KTH Royal Institute of Technology** and **visiting researcher at the University of Oxford** ([Deep Medicine Group](https://www.deepmedicine.ox.ac.uk/)), supervised by **Prof. Kazem Rahimi** and **Dr. Shishir Rao**.
+I'm a **PhD student at KTH Royal Institute of Technology**, supervised by **Prof. Vladimir Vlassov** and **Assoc. Prof. Amir H. Payberah** and **visiting researcher at the University of Oxford** ([Deep Medicine Group](https://www.deepmedicine.ox.ac.uk/)), supervised by **Dr. Shishir Rao** and **Prof. Kazem Rahimi**.
 
 My research sits at the intersection of **probabilistic machine learning** and **clinical decision support** — building models that don't just predict, but *know what they don't know*. I design uncertainty-aware architectures for structured and unstructured clinical data, from electronic health records to psychotherapy transcripts.
 
@@ -83,8 +83,8 @@ My research sits at the intersection of **probabilistic machine learning** and *
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=smidtfab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smidtfab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats-vercel-blue-nu.vercel.app/api?username=smidtfab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-vercel-blue-nu.vercel.app/api/top-langs/?username=smidtfab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=smidtfab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888)](https://git.io/streak-stats)
 
