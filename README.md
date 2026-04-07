@@ -49,7 +49,7 @@ My research sits at the intersection of **probabilistic machine learning** and *
 | Year | Paper | Venue | |
 |------|-------|-------|-|
 | 2026 | [**Probabilistic Textual Time Series Depression Detection**](https://arxiv.org/abs/2511.04476) | ACL Findings | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/smidtfab/PTTSD) |
-| 2025 | [**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**](https://aclanthology.org/2025.clpsych-1.11/) | CLPsych · 🏆 *Best Poster* | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/smidtfab/CFiCS) |
+| 2025 | [**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**](https://aclanthology.org/2025.clpsych-1.11/) | CLPsych @ NAACL · 🏆 *Best Poster* | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/smidtfab/CFiCS) |
 | 2025 | [**Leveraging LLMs to Identify Microcounseling Skills in Psychotherapy Transcripts**](https://doi.org/10.1080/10503307.2025.2539405) | Psychotherapy Research | |
 | 2024 | [**Single-Pass Hierarchical Text Classification with Large Language Models**](https://doi.org/10.1109/BigData62323.2024.10825412) | IEEE BigData | |
 | 2024 | [**Multimodal Survival Prediction Using TabTransformer and BioClinicalBERT on MIMIC-III**](https://doi.org/10.1109/BigData62323.2024.10826011) | IEEE BigData | |
