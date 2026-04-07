@@ -38,11 +38,19 @@ My research sits at the intersection of **probabilistic machine learning** and *
 
 ## 📄 Selected Publications
 
+<div align="center">
+
+<a href="https://aclanthology.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Association_for_Computational_Linguistics_logo.svg" alt="ACL Logo" height="32"/></a>
+&nbsp;&nbsp;&nbsp;
+[![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/)
+
+</div>
+
 | Year | Paper | Venue | |
 |------|-------|-------|-|
+| 2026 | [**Probabilistic Textual Time Series Depression Detection**](https://arxiv.org/abs/2511.04476) | ACL Findings | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/smidtfab/PTTSD) |
 | 2025 | [**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**](https://aclanthology.org/2025.clpsych-1.11/) | CLPsych · 🏆 *Best Poster* | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/smidtfab/CFiCS) |
 | 2025 | [**Leveraging LLMs to Identify Microcounseling Skills in Psychotherapy Transcripts**](https://doi.org/10.1080/10503307.2025.2539405) | Psychotherapy Research | |
-| 2025 | [**Probabilistic Textual Time Series Depression Detection**](https://arxiv.org/abs/2511.04476) | arXiv preprint | |
 | 2024 | [**Single-Pass Hierarchical Text Classification with Large Language Models**](https://doi.org/10.1109/BigData62323.2024.10825412) | IEEE BigData | |
 | 2024 | [**Multimodal Survival Prediction Using TabTransformer and BioClinicalBERT on MIMIC-III**](https://doi.org/10.1109/BigData62323.2024.10826011) | IEEE BigData | |
 | 2023 | [**Using ML to Recommend Personalized Modular Treatments for Common Mental Health Disorders**](https://doi.org/10.1109/ICDH60066.2023.00029) | IEEE ICDH | |
